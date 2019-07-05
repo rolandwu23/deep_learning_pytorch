@@ -2,11 +2,7 @@
 
 # Dependencies
 
-----
-
 # Configure and Manage Your Environment with Anaconda
-
-----
 
 Per the Anaconda [docs](https://conda.io/projects/conda/en/latest/):
 

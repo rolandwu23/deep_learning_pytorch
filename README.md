@@ -49,8 +49,8 @@ These instructions also assume you have `git` installed for working with Github 
 
 1. Clone the repository, and navigate to the downloaded folder. This may take a minute or two to clone due to the included image data.
 <pre>
-git clone https://github.com/udacity/deep-learning-v2-pytorch.git
-cd deep-learning-v2-pytorch
+git clone https://github.com/rolandwu23/mlp_mnist_pytorch.git
+cd mlp_mnist_pytorch
 </pre>
 
 2. Create (and activate) a new environment, named `deep-learning` with Python 3.6. If prompted to proceed with the install `(Proceed [y]/n)` type y.
@@ -93,7 +93,7 @@ Now, assuming your deep-learning environment is still activated, you can navigat
 
 <pre>
 cd
-cd deep-learning-v2-pytorch
+cd mlp_mnist_pytorch
 jupyter notebook
 </pre>
 

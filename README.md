@@ -1,4 +1,4 @@
-# mlp_mnist_pytorch
+# Deep Learning Pytorch
 
 # Dependencies
 
